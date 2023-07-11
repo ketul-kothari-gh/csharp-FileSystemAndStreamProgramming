@@ -1,0 +1,2 @@
+Line followed by terminator
+This is written using Stream Writer10000

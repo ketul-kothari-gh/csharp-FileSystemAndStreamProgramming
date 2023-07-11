@@ -1,0 +1,15 @@
+C:\Users\Ketul.Kothari\source\repos\FileSystemAndStreamProgramming\FileSystemAndStreamProgramming\bin\Debug\net6.0\FileSystemAndStreamProgramming.exe
+C:\Users\Ketul.Kothari\source\repos\FileSystemAndStreamProgramming\FileSystemAndStreamProgramming\bin\Debug\net6.0\FileSystemAndStreamProgramming.deps.json
+C:\Users\Ketul.Kothari\source\repos\FileSystemAndStreamProgramming\FileSystemAndStreamProgramming\bin\Debug\net6.0\FileSystemAndStreamProgramming.runtimeconfig.json
+C:\Users\Ketul.Kothari\source\repos\FileSystemAndStreamProgramming\FileSystemAndStreamProgramming\bin\Debug\net6.0\FileSystemAndStreamProgramming.dll
+C:\Users\Ketul.Kothari\source\repos\FileSystemAndStreamProgramming\FileSystemAndStreamProgramming\bin\Debug\net6.0\FileSystemAndStreamProgramming.pdb
+C:\Users\Ketul.Kothari\source\repos\FileSystemAndStreamProgramming\FileSystemAndStreamProgramming\obj\Debug\net6.0\FileSystemAndStreamProgramming.csproj.AssemblyReference.cache
+C:\Users\Ketul.Kothari\source\repos\FileSystemAndStreamProgramming\FileSystemAndStreamProgramming\obj\Debug\net6.0\FileSystemAndStreamProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ketul.Kothari\source\repos\FileSystemAndStreamProgramming\FileSystemAndStreamProgramming\obj\Debug\net6.0\FileSystemAndStreamProgramming.AssemblyInfoInputs.cache
+C:\Users\Ketul.Kothari\source\repos\FileSystemAndStreamProgramming\FileSystemAndStreamProgramming\obj\Debug\net6.0\FileSystemAndStreamProgramming.AssemblyInfo.cs
+C:\Users\Ketul.Kothari\source\repos\FileSystemAndStreamProgramming\FileSystemAndStreamProgramming\obj\Debug\net6.0\FileSystemAndStreamProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Ketul.Kothari\source\repos\FileSystemAndStreamProgramming\FileSystemAndStreamProgramming\obj\Debug\net6.0\FileSystemAndStreamProgramming.dll
+C:\Users\Ketul.Kothari\source\repos\FileSystemAndStreamProgramming\FileSystemAndStreamProgramming\obj\Debug\net6.0\refint\FileSystemAndStreamProgramming.dll
+C:\Users\Ketul.Kothari\source\repos\FileSystemAndStreamProgramming\FileSystemAndStreamProgramming\obj\Debug\net6.0\FileSystemAndStreamProgramming.pdb
+C:\Users\Ketul.Kothari\source\repos\FileSystemAndStreamProgramming\FileSystemAndStreamProgramming\obj\Debug\net6.0\FileSystemAndStreamProgramming.genruntimeconfig.cache
+C:\Users\Ketul.Kothari\source\repos\FileSystemAndStreamProgramming\FileSystemAndStreamProgramming\obj\Debug\net6.0\ref\FileSystemAndStreamProgramming.dll
